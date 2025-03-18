@@ -24,14 +24,13 @@ The goal of this project is to enhance skills in **data modeling**, **DAX calcul
 ├── 📂 Data  
 │   ├── ipl_matches_2008_2024.csv  
 │   ├── ipl_ball_by_ball_2008_2024.csv  
-│   └── calendar_table.csv  
-├── 📂 Reports  
-│   ├── IPL_Analysis.pbix  
-│   └── Screenshots  
+│   └── calendar_table.csv
+├── 📂src images
+├── 📂  Screenshots  
 │       ├── dashboard_overview.png  
 │       └── data_model.png  
-├── .gitignore  
-└── LICENSE  
+├──IPL_Analysis.pbix
+├── README 
 ```
 
 ### **1. Data**
