@@ -52,15 +52,6 @@ The goal of this project is to enhance skills in **data modeling**, **DAX calcul
 
 ---
 
-## 📥 How to Use
-1. Clone the repository:  
-```sh
-git clone https://github.com/yourusername/ipl-analysis-powerbi.git
-```
-2. Open `IPL_Analysis.pbix` in Power BI.  
-3. Explore the interactive dashboard using filters and visualizations.  
-
----
 
 ## 🧠 **Key Learnings**
 ✅ Data modeling and establishing relationships between tables.  
