@@ -74,7 +74,4 @@ Feel free to fork this repo and contribute! If you have any suggestions or impro
 ## 📄 License
 This project is licensed under the **MIT License** — you’re free to use and modify it!  
 
----
-
-🔥 **Excited to hear your feedback!** 😎  
-#DataAnalytics #PowerBI #IPL #Cricket #Dashboard #DataVisualization  
+--- 
